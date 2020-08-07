@@ -15,5 +15,5 @@ python ccc.py
 Enter your encoded text here.
 <Enter text>
 Ideal offset is <offset>
-Decodeded output was "<output>."
+Decodeded output was "<output>"
 ```
